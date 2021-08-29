@@ -1,0 +1,26 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compose.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bad4iz/functional-programming.git"
+  },
+  "author": "bad4iz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bad4iz/functional-programming/issues"
+  },
+  "homepage": "https://github.com/bad4iz/functional-programming#readme",
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-jest": "^27.1.0",
+    "jest": "^27.1.0",
+    "prettier": "^2.3.2"
+  }
+}
